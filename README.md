@@ -6,5 +6,14 @@ There still definitely is the use of Tailwind Css to style our project and the u
 I was unable to apply the AI functionality in the project due to the hustle of having to pay for an API key. But am sure this is a hadle I am going to be crossing over very sooon. 
 This are hence  some of the few technologiev I have gotten to use here. But I will give a better indepth look at it once I have had a chance to review my code.
 
+## Project Snippets
+### Home page
+![image](https://github.com/user-attachments/assets/07629a8e-69ec-43c0-9577-86983f2c9b8a)
+
+### Image Editing page
+![image](https://github.com/user-attachments/assets/231746b6-5aa3-444d-a74a-692ac8f31a8a)
+
+
+
 ## Conclusion
 I am loving the learning process in my programming journey. See you on the other side.
